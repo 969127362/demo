@@ -1,0 +1,19 @@
+{
+    "name": "969127362/demo",
+    "description": "this is a demo",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "liqingqing",
+            "email": "969127362@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "core\\":"core",
+            "web\\":"web"
+        }
+    }
+}
